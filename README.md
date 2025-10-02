@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ahmed abar</h1>
 <h3 align="center">Full-Stack Engineer | From UI ✨ to Databases 🛠 | React Native & Node.js</h3>
 
-- 🔭 I’m currently working on [Uber-Like app (private-repo)](https://github.com/ahmedabardev/viaje-rapido-documentaion.git)
+- 🔭 I’m currently working on [Uber-Like app](https://github.com/ahmedabardev/viaje-rapido-documentaion.git)
 
 - 📫 How to reach me **ahmed.abar.dev@gmail.com**
 
